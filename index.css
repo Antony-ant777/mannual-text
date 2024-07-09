@@ -1,0 +1,19 @@
+.main{
+    background-color: rgba(240, 248, 255, 0.455);
+    margin: 100px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    text-align: center;
+}
+.Anime{
+    margin: 30px;
+ background-color: #c7dfdfa4;   
+ border: 3px solid rgba(150, 150, 180, 0.373);
+}
+body{
+    background-size: 100%;
+    background-image: url(https://cdn.oneesports.gg/cdn-data/2023/09/Anime_OnePiece_MonkeyDLuffy_Wallpaper_Smiling_HD.jpg)
+}
+img{
+    float: left;
+}
